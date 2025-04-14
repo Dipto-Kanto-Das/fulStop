@@ -1,0 +1,107 @@
+
+.header{
+    background-color:red;
+    text-align: center;
+    padding:10px;
+   
+}
+.social-links li{
+    list-style: none;
+    padding: 0;
+    }
+ .social-links a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-right: 15px;
+ }
+ .social-links ul li{
+    display: inline-block;
+    margin: 0 10px;
+ }
+h5{
+    text-align: center;
+}
+
+/* carousel */
+.carousel {
+    height: 80vh;
+    padding: 16px;
+}
+/* @media (max-width: 768px) {
+    .carousel {
+      height: 60vh; 
+      padding: 0%;
+    }
+  
+    .carousel-item img {
+      object-fit: contain; 
+    }
+  } */
+/* banner */
+.banner{
+    padding: 30px ;
+}
+/* book-card */
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+h2{
+    text-align: center;
+    font-size: medium;
+    padding-top: 7px;
+    font-weight: 400px;
+   
+}
+/* footer */
+.list-unstyleds{
+    padding-left: 130px;
+    list-style: none;
+}
+.social-links-1 a {
+    background-color: #222;
+    color: white;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    transition: all 0.3s ease;
+    display: inline-block;
+  }
+
+  .social-links-1 a:hover {
+    background-color: #ff00d4;
+    color: red;
+    transform: scale(1.2);
+  }
+  .custom-padding{
+    padding-left: 190px;
+  }
+
+  .choose{
+    padding: px;
+  }
+  h1{
+    text-align: center;
+  }
+  
+/* contact */
+.contact-section {
+  background-color: #f9f9f9;
+}
+
+.contact-section h2 {
+  font-weight: 700;
+}
+
+.contact-section a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+}
