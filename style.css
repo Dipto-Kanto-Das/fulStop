@@ -5,6 +5,25 @@
     padding:10px;
    
 }
+.auth-dropdown:hover {
+  color: #c31c37 !important;
+}
+
+.auth-dropdown i {
+  margin-right: 8px;
+  font-size: 15px;
+}
+
+.header-icon {
+  font-size: 20px;
+  color: #333;
+}
+
+.ec-header-btn {
+  text-decoration: none;
+  color: inherit;
+}
+
 .social-links li{
     list-style: none;
     padding: 0;
